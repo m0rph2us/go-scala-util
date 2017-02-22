@@ -1,0 +1,1 @@
+Some scala util function for go language.
